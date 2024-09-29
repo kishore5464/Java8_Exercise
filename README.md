@@ -1,6 +1,6 @@
 Java 8:
 -------
-   Trying to understand more in Java 8 in-build methods which we can use for our operations.
+Trying to understand more in Java 8 in-build methods which we can use for our operations.
 
 String:
 -------
